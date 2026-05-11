@@ -1,0 +1,31 @@
+{
+  "started_at": "2026-05-11T21:58:03.182881",
+  "last_updated": "2026-05-11T21:58:03.304867",
+  "total_companies": 1821,
+  "processed_count": 0,
+  "failed_count": 1,
+  "skipped_count": 0,
+  "last_processed_index": 1,
+  "last_processed_company": "360 ONE WAM LTD",
+  "companies": {
+    "360 ONE WAM LTD": {
+      "index": 1,
+      "status": "failed",
+      "output_file": "/home/brsrk94/Videos/README/esg_scraper/reports/360_one_wam_ltd_esg.json",
+      "processed_at": "2026-05-11T21:58:03.263641"
+    }
+  },
+  "failed_companies": [
+    "360 ONE WAM LTD"
+  ],
+  "session_history": [
+    {
+      "started_at": "2026-05-11T21:58:03.182917",
+      "total_companies": 1821,
+      "resume_from": 1,
+      "ended_at": "2026-05-11T21:58:03.304820",
+      "processed": 0,
+      "failed": 1
+    }
+  ]
+}

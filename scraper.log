@@ -1,0 +1,4 @@
+  File "/home/brsrk94/Videos/README/esg_scraper/esg_framework_scraper.py", line 954
+    INVALID_SYNTAX_HERE !!
+                        ^
+SyntaxError: invalid syntax

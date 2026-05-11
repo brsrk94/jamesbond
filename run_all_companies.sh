@@ -20,7 +20,8 @@
 #   ./run_all_companies.sh --reset                # Reset progress and start fresh
 #
 
-set -e  # Exit on error
+set -e          # Exit on error
+set -o pipefail # Capture errors in piped commands
 
 # ============================================================================
 # CONFIGURATION
